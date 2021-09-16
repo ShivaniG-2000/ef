@@ -1,0 +1,12 @@
+D:\teamAkshay_Aquarium_p1\data\bin\Debug\data.dll.config
+D:\teamAkshay_Aquarium_p1\data\bin\Debug\data.dll
+D:\teamAkshay_Aquarium_p1\data\bin\Debug\data.pdb
+D:\teamAkshay_Aquarium_p1\data\bin\Debug\EntityFramework.dll
+D:\teamAkshay_Aquarium_p1\data\bin\Debug\EntityFramework.SqlServer.dll
+D:\teamAkshay_Aquarium_p1\data\bin\Debug\EntityFramework.xml
+D:\teamAkshay_Aquarium_p1\data\bin\Debug\EntityFramework.SqlServer.xml
+D:\teamAkshay_Aquarium_p1\data\obj\Debug\data.csproj.AssemblyReference.cache
+D:\teamAkshay_Aquarium_p1\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+D:\teamAkshay_Aquarium_p1\data\obj\Debug\data.csproj.CopyComplete
+D:\teamAkshay_Aquarium_p1\data\obj\Debug\data.dll
+D:\teamAkshay_Aquarium_p1\data\obj\Debug\data.pdb
